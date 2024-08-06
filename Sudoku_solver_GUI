@@ -1,5 +1,5 @@
 """
-A GUI that allow to solve easely sudoku
+A GUI that allow to solve sudoku whith a GUI
 """
 from typing import List
 from tkinter import Tk, Entry, IntVar
